@@ -1,0 +1,164 @@
+
+/*Meu CSS*/
+
+body{
+    background-image: url('img/ford_gt.jpg');
+}
+
+
+
+/*******************************************************************/
+header{
+    background-color: #f1f1f1;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+h1.title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(180, 179, 179);
+}
+
+
+a.sell{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(236, 20, 20);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+a.sell:hover{
+    color: black;
+}
+
+
+
+a.cars{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(31, 168, 231);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+a.cars:hover{
+    color: blue;
+}
+
+
+
+
+a.home{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(31, 168, 231);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+a.home:hover{
+    color: blue;
+}
+
+
+.logout{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(0, 0, 0);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+
+
+.login{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(190, 10, 10);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+
+.registar{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(6, 206, 66);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+
+/*****************************************************************/
+.pesquisa{
+    background-color: rgba(200, 225, 221, 0.8);
+    display: block;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 100px;
+
+}
+
+
+/**************************************************************/
+.div_lista_marcas{
+    background-color:  rgba(200, 225, 221,0.8); 
+    text-align: center;
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+   
+}
+
+.logos{
+    height: 10%;
+    width: 10%;
+    margin: 20px; 
+}
+
+/******************************************************************/
+
+.carros_indi{
+    display: flex;
+    margin: auto;
+    padding-top: 40px;
+    background-color:  rgba(200, 225, 221, 0.8);
+    width: 70%;
+    height: 350px;
+    text-align: center;
+}
+
+
+.img{
+    width: 170px;
+    height: 170px; 
+}
+
+.esp{
+    padding: 50px;
+}
+
+
+/*------------------------------*/
+footer{
+    background-color: rgb(180, 179, 179);
+    text-align: center;
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+
+

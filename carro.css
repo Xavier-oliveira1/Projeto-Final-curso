@@ -1,0 +1,78 @@
+body{
+    
+}
+/*------------header---------*/
+header{
+    background-color: #f1f1f1 !important; 
+    text-align: center;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+h1.title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(180, 179, 179);
+}
+
+
+a.sell{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(236, 20, 20);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+a.sell:hover{
+    color: black;
+}
+
+
+
+a.cars{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(31, 168, 231);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+a.cars:hover{
+    color: blue;
+}
+
+a.home{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(31, 168, 231);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+a.home:hover{
+    color: blue;
+}
+
+/*------------header---------*/
+
+.carros{
+    background-color: rgba(200, 225, 221, 0.8);; 
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+    display: block;
+}
+
+.esp{
+    text-align: right;
+
+}

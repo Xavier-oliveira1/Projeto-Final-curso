@@ -1,0 +1,68 @@
+body{
+    background-image: url("img/lancia_037.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    display: block;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+a.sell{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(236, 20, 20);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+a.sell:hover{
+    color: black;
+}
+
+
+
+a.cars{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(31, 168, 231);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+a.cars:hover{
+    color: blue;
+}
+
+
+
+
+a.home{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(31, 168, 231);
+    font: bold 15px Arial;
+    padding: 2px 6px 2px 6px;
+    border-radius: 10px;
+}
+a.home:hover{
+    color: blue;
+}
+
+
+.form_vender{
+    background-color: rgba(200, 225, 221, 0.8);
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    width: 70%;
+    height: auto;
+    padding: 10px;
+}
